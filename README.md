@@ -16,6 +16,6 @@ Tải file .weights đã được train sẵn tại link: https://drive.google.c
 
 Sau khi tải về, giải nén (nếu có), sau đó vào thư mục **Face_Detection** trong folder project -> vào thư mục **file_yolo** và để file .weights tại đây.
 
-# -----------------------------------------------------------------
+# --------------------------------------------------------------
 
 ## BƯỚC 4: TRAINING
