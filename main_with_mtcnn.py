@@ -38,7 +38,7 @@ def extract_canny_edges1(img):
 
 cap = cv2.VideoCapture(0)
 while(cap.isOpened()):
-    #img = cv2.imread('image\demo3.jpg')
+    #img = cv2.imread('*link to demo image*')
     _, img = cap.read()
     faces = detector.detect_faces(img)
     for face in faces:
