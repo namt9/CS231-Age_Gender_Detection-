@@ -4,12 +4,20 @@
 
 Dữ liệu đã được "làm sạch" và phân loại theo giới tính trong mỗi tập Train - Test - Validation (bao gồm 160 ảnh trong bộ training).
 
-Tải bộ dữ liệu tại link: https://drive.google.com/drive/u/0/folders/1OewmwkAFBmYTY5OVd9U8pZzUUXk6pWTd
+Tải bộ dữ liệu tại link: https://drive.google.com/drive/u/0/folders/1PhXMnh7j0rvuEag1AM7ODk3vKfRIRXpH
 
 Sau khi giải nén file dữ liệu, để thư mục "Dataset" này trong folder project vừa Clone về.
 
 # ---------- DETECT KHUÔN MẶT BẰNG YOLOv4 ----------
 
-Thực hiện tiếp từ bước 3 đến 6:
+Thực hiện thêm **Bước ***:
 
-## BƯỚC 3:
+## BƯỚC *: TẢI FILE .weights ĐÃ ĐƯỢC TRAIN SẴN
+
+Tải file .weights tại link: https://drive.google.com/drive/u/0/folders/1PhXMnh7j0rvuEag1AM7ODk3vKfRIRXpH
+
+Sau khi tải về, giải nén (nếu có), sau đó vào thư mục **Face_Detection** trong folder project -> vào thư mục **file_yolo** và để file .weights tại đây.
+
+# ---------------------------------------------------
+
+## BƯỚC 4: TRAINING
