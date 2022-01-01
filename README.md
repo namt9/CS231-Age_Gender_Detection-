@@ -1,6 +1,6 @@
-## BƯỚC 1: CLONE PROJECT VỀ MÁY
+### BƯỚC 1: CLONE PROJECT VỀ MÁY
 
-## BƯỚC 2: LẤY BỘ DỮ LIỆU
+### BƯỚC 2: LẤY BỘ DỮ LIỆU
 
 Dữ liệu đã được "làm sạch" và phân loại theo giới tính trong mỗi tập Train - Test - Validation (bao gồm 160 ảnh trong bộ training).
 
@@ -8,6 +8,6 @@ Tải bộ dữ liệu tại link: https://drive.google.com/drive/u/0/folders/1O
 
 Sau khi giải nén file dữ liệu, để thư mục "Dataset" này trong folder project vừa Clone về.
 
----------- NẾU MUỐN DETECT KHUÔN MẶT BẰNG YOLOv4 THÌ THỰC HIỆN TỪ BƯỚC 3 ĐẾN 6 ----------
+## ---------- NẾU MUỐN DETECT KHUÔN MẶT BẰNG YOLOv4 THÌ THỰC HIỆN TỪ BƯỚC 3 ĐẾN 6 ----------
 
-## BƯỚC 3:
+### BƯỚC 3:
