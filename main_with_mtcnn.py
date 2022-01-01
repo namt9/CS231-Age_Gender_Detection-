@@ -38,8 +38,8 @@ def extract_canny_edges1(img):
 
 cap = cv2.VideoCapture(0)
 while(cap.isOpened()):
-    img = cv2.imread('image\demo3.jpg')
-    #_, img = cap.read()
+    #img = cv2.imread('image\demo3.jpg')
+    _, img = cap.read()
     faces = detector.detect_faces(img)
     for face in faces:
         x, y, w, h = face['box']
