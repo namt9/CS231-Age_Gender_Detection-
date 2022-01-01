@@ -16,4 +16,13 @@ Thực hiện chạy file **main_with_mtcnn.py**
 
 # ---------------------------------------------------------------
 
+KẾT QUẢ THỰC NGHIỆM:
+
+![image0](https://user-images.githubusercontent.com/81065789/147849399-ec315116-31d5-4ad0-81c9-b2fdf4da7ee7.png)
+
+![image1](https://user-images.githubusercontent.com/81065789/147849400-941032df-9eaf-4cb3-894b-ed8322a48ee3.jpg)
+
+VIDEO REALTIME:
+
+https://user-images.githubusercontent.com/81065789/147849404-45c65c7e-9ab2-4071-b6ff-4feaad7df1c3.mp4
 
